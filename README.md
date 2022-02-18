@@ -10,7 +10,7 @@ Aplicación creada con REACT en donde por medio de una API, se consume y se list
 
 ### Link del aplicativo subido a página propia 🤖
 
-[ACMECORP - Click aquí](https://acmecorp.jara.com.co/) 
+[BUSCADOR Autogermana test - Click aquí](https://autogermanatest.jara.com.co//) 
 
 ### Instrucciones para Subir el aplicativo a Heroku
 
